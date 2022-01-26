@@ -8,7 +8,7 @@ function App() {
   return (
     <div className='App'>
       <Header greeting='Alchemy Animal Farm' />
-      <Main />
+      <Main animals={animals}/>
       <Footer email='fake.email@fakedomain.com' />
     </div>
   );
