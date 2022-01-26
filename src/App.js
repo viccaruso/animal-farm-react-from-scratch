@@ -7,7 +7,7 @@ import { animals } from './data';
 function App() {
   return (
     <div className='App'>
-      <Header text='Alchemy Animal Farm' />
+      <Header greeting='Alchemy Animal Farm' />
       <Main />
     </div>
   );
