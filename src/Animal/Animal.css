@@ -1,3 +1,9 @@
 .name {
   text-transform: uppercase;
 }
+
+.animal-card {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+}
