@@ -1,9 +1,11 @@
 main {
+  background-image: url('../background.png');
   display: flex;
   height: 50%;
   width: 100%;
   flex-wrap: wrap;
   background-size: cover;
+
 }
 
 img {
